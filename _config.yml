@@ -1,12 +1,12 @@
 # Site settings
-title: Polar Bear
-email: 
+title: DanziFire
+email: danzifire@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Jekyll Theme Demo
+  DanziFire's Blog
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://username.github.io" # the base hostname & protocol for your site
-twitter_username: username
-github_username: username
+url: "http://danzifire.github.io" # the base hostname & protocol for your site
+#twitter_username: username
+github_username: danzifire
 
 # Build settings
 markdown: redcarpet
