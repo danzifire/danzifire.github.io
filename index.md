@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
-Before I start blogging, it is not my intention to keep blogging for life as
+Being a 13 year old who lives in the country, money isn't to easy to get,
 
-I think I am too impatient to carry on that far. I have chosen to blog because I
+which is why I have turned to social media to get the money I need. It is a
 
-want to  become famous. also I want to blog as it is my way of thinking. To me I
+business I know and respect, I can work from home and at school and you don't
 
- am just having a chat to the world. I think talking out loud about a problem is
+need to attend to it daily. It seems perfect for someone impatient like me.
 
- the best way of solving it.
+This blog will show my written thoughts and ideas which will help me progress to
+happiness and fame 
