@@ -1,13 +1,16 @@
 ---
 layout: default
 ---
-Being a 13 year old who lives in the country, money isn't to easy to get,
+*Welcome to my blog*
 
-which is why I have turned to social media to get the money I need. It is a
+A man once said "Money can't buy you happiness" but how can one man speak for
 
-business I know and respect, I can work from home and at school and you don't
+the whole of humanity
 
-need to attend to it daily. It seems perfect for someone impatient like me.
+Being a 13 year country boy money isn't easy to get, which I think is why I
 
-This blog will show my written thoughts and ideas which will help me progress to
-happiness and fame 
+treasure it so much.
+
+I have turned to a business I know, I respect and I use myself. I am relying on
+
+social media like youtube and facebook to earn me money 
