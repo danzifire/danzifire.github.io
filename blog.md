@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Ben
+title: Blog
 ---
 ghsdjkghs
