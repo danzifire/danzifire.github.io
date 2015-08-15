@@ -12,4 +12,4 @@ want to  become famous. I also want to blog as it is my way of thinking. To me I
 
  am just having a chat to the world. I think talking out loud about a problem is
 
- the best of solving it.
+ the best way of solving it.
