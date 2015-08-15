@@ -7,7 +7,7 @@ A man once said "*Money can't buy you happiness*" but how can one man speak for
 
 the whole of humanity
 
-Being a 13 year country boy money isn't easy to get, which I think is why I
+Being a 13 year old country boy money isn't easy to get, which I think is why I
 
 treasure it so much.
 
