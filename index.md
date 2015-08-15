@@ -3,7 +3,7 @@ layout: default
 ---
 *Welcome to my blog*
 
-A man once said "Money can't buy you happiness" but how can one man speak for
+A man once said "*Money can't buy you happiness*" but how can one man speak for
 
 the whole of humanity
 
@@ -13,4 +13,4 @@ treasure it so much.
 
 I have turned to a business I know, I respect and I use myself. I am relying on
 
-social media like youtube and facebook to earn me money 
+social media like youtube and facebook to earn me money
